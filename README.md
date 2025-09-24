@@ -1,5 +1,3 @@
-# 本学期开源贡献计划：Biopython
-
 > 课程：开源软件实践（https://github.com/osslab-pku/OSSDevelopment/tree/main）  
 > 目标项目：Biopython（https://github.com/biopython/biopython）
 
@@ -18,3 +16,4 @@ Biopython 是生信领域最成熟的 Python 库之一，社区活跃、文档�
 3. **社区参与**
    - 参与 issue 讨论/分类与最小可复现实验（MRE）提供。
    - 目标：高质量互动 ≥ 4 次（评论/问题澄清/复现实验等).
+
